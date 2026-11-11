@@ -130,4 +130,4 @@ Or open **App Catalog**, tick the apps you want and click **Add Selected to Trac
 
 ## License
 
-Add your license here (for example MIT) before publishing.
+MIT license.
