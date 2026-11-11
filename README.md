@@ -1,5 +1,7 @@
 # Release Tracker
 
+<img width="1000" alt="image" src="images/Screenshot.png" />
+
 A Windows-friendly desktop app (Python + PySide6) that keeps a list of software you care about, checks each one for a newer release, downloads it, and updates your local copy, with backups and one-click roll back.
 
 It is built for **portable apps**: point it at a project's release page, tell it which file to grab (for example the Windows x64 portable zip), give it an install folder, and the tracker does the rest.
